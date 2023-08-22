@@ -7,7 +7,7 @@ for well-being we need nectar and ambrosia
 
 #### ⚔ skils
 **Platforms&Languages**
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C++&logoColor=white"/> </p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/> </p>
 
 
 #### 🗨 contacts
